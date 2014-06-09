@@ -17,6 +17,9 @@ namespace MyPress3
 		public App()
 		{
 			this.Startup += this.Application_Startup;
+			
+			
+			this.Startup += this.Application_Exit;
 			this.Exit += this.Application_Exit;
 			this.UnhandledException += this.Application_UnhandledException;
 
