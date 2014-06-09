@@ -1,0 +1,19 @@
+﻿<!--
+      *********    НЕ ИЗМЕНЯЙТЕ ЭТОТ ФАЙЛ     *********
+      Этот файл обновляется средством разработки. Внесение
+      изменений в этот файл может привести к ошибкам.
+-->
+<SampleData:SampleDataSource xmlns:SampleData="clr-namespace:Expression.Blend.SampleData.SampleDataSource" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <SampleData:SampleDataSource.Collection>
+    <SampleData:Item Property1="Class curae cras aliquam" Property2="True" />
+    <SampleData:Item Property1="Donec aenean etiam" Property2="False" />
+    <SampleData:Item Property1="Duis nam" Property2="True" />
+    <SampleData:Item Property1="Maecenas praesent accumsan nunc" Property2="False" />
+    <SampleData:Item Property1="Mauris amet ante" Property2="True" />
+    <SampleData:Item Property1="Sed integer" Property2="False" />
+    <SampleData:Item Property1="Fusce dis bibendum" Property2="True" />
+    <SampleData:Item Property1="Nullam dictumst quisque est" Property2="False" />
+    <SampleData:Item Property1="Hac leo mus" Property2="True" />
+    <SampleData:Item Property1="Eleifend lorem" Property2="False" />
+  </SampleData:SampleDataSource.Collection>
+</SampleData:SampleDataSource>
